@@ -20,6 +20,9 @@
         >
           GitHub
         </a>
+        <button class="mb-3 rounded-full flex items-center shadow bg-blue-500 px-4 py-2 text-white hover:bg-blue-400">
+    Default
+        </button>
       </div>
     </div>
   </div>
