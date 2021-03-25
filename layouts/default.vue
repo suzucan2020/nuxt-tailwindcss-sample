@@ -1,5 +1,5 @@
 <template>
-<div>
+
 <header class="text-gray-600 body-font">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
@@ -21,13 +21,11 @@
     </button>
   </div>
 </header>
-</div>
 
   <div>
     <Nuxt />
   </div>
 
-<div>
 <footer class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
     <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
@@ -142,7 +140,6 @@
     </div>
   </div>
 </footer>
-</div>
 
 
 </template>
