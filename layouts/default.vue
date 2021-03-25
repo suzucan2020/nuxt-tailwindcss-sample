@@ -3,7 +3,7 @@
     <Header />
     <Nuxt />
     <Hooter />
-  <div>
+  </div>
 </template>
 
 <script>
