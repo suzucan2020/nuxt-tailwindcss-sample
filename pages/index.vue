@@ -23,6 +23,26 @@
         <button class="mb-3 rounded-full flex items-center shadow bg-blue-500 px-4 py-2 text-white hover:bg-blue-400">
     Default
         </button>
+
+    <!-- Primary -->
+    <button class="flex items-center shadow bg-teal-500 px-4 py-2 text-white hover:bg-teal-400">
+        Default
+    </button>
+    <!-- Border bottom --> 
+    <button
+      class="bg-blue-500 py-2 px-4 border-b-4 border-blue-800 rounded text-white hover:border-blue-lighter hover:bg-blue-400">
+      Default
+    </button>
+    <!-- Border-->
+    <button class="border-2 border-blue-500 px-4 py-2 text-blue-500 hover:text-white hover:bg-blue-500 rounded">
+        <p>Default</p>
+    </button>
+    <!-- Line down -->
+    <button class="mt-4 px-4 py-2 border-b-2 border-blue-400 font-bold text-blue-500 hover:border-blue-500">
+        Default
+    </button>
+
+
       </div>
     </div>
   </div>
