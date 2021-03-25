@@ -1,9 +1,9 @@
 <template>
-  <main class="container relative min-h-screen pt-16">
+  <div>
     <Header />
     <Nuxt />
     <Hooter />
-  </main>
+  <div>
 </template>
 
 <script>
